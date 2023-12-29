@@ -4,6 +4,6 @@ int main() {
     // Printing the message to the console
     printf("Hello ThinkPalm\n");
 
-    // Returning 0 to indicate successful execution
+    // Comment from testuser
     return 0;
 }
