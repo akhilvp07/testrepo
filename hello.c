@@ -5,6 +5,6 @@ int main() {
     printf("Hello ThinkPalm\n");
 
     // Comment from testuser
-    printf("Hello testuser\n");
+    printf("Hello User\n");
     return 0;
 }
