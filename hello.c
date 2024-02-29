@@ -6,5 +6,6 @@ int main() {
 
     // Comment from testuser
     printf("Hello User\n");
+
     return 0;
 }
